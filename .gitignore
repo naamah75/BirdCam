@@ -1,0 +1,19 @@
+# Arduino / build outputs
+*.bin
+*.elf
+*.map
+*.hex
+
+# Local secrets
+secrets.h
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Archives
+*.zip
